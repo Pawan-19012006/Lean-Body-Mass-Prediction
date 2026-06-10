@@ -1,11 +1,54 @@
+
+<div align="center">
+
 # 💪 Lean Body Mass Prediction Challenge
 
-Machine Learning regression project focused on predicting **Lean Body Mass** using nutritional, physiological, and behavioral health-related features.  
-This project involved extensive **feature engineering**, **model optimization**, and **iterative experimentation** to improve predictive performance on a weak-signal dataset.
+<br>
 
-🏆 **Final Achievement:** Secured **Rank #2** in the Lean Body Mass Prediction Challenge.
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3.11+-3776AB?style=for-the-badge&labelColor=4B4B4B" />
+  <img src="https://img.shields.io/badge/ML-SCIKIT--LEARN-F7931E?style=for-the-badge&labelColor=4B4B4B" />
+  <img src="https://img.shields.io/badge/MODEL-XGBOOST-EF4444?style=for-the-badge&labelColor=4B4B4B" />
+  <img src="https://img.shields.io/badge/EDA-SEABORN-4C72B0?style=for-the-badge&labelColor=4B4B4B" />
+  <img src="https://img.shields.io/badge/OPTIMIZATION-GRIDSEARCHCV-10B981?style=for-the-badge&labelColor=4B4B4B" />
+</p>
 
-![Home Page](./images/home_page.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/CHALLENGE-RANK_2-FFD700?style=for-the-badge&labelColor=4B4B4B" />
+  <img src="https://img.shields.io/badge/TASK-REGRESSION_MODELING-8B5CF6?style=for-the-badge&labelColor=4B4B4B" />
+</p>
+
+<img src="./images/home_page.png" width="85%" />
+
+</div>
+
+---
+
+# Table of Contents
+
+- [Project Highlights](#-project-highlights)
+- [Hackathon Achievement](#-hackathon-achievement)
+- [Problem Statement](#-problem-statement)
+- [Technologies Used](#-technologies-used)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+  - [Key Observations](#key-observations)
+- [Feature Engineering](#-feature-engineering)
+  - [Engineered Features](#-engineered-features)
+    - [1️⃣ Total Nutrients](#1️⃣-total-nutrients)
+    - [2️⃣ Heart Rate Range](#2️⃣-heart-rate-range)
+    - [3️⃣ Sodium Density](#3️⃣-sodium-density)
+- [Data Preprocessing](#️-data-preprocessing)
+- [Models Used](#-models-used)
+- [Cross Validation](#-cross-validation)
+- [Hyperparameter Tuning](#-hyperparameter-tuning)
+  - [GridSearchCV](#gridsearchcv)
+  - [RandomizedSearchCV](#randomizedsearchcv)
+- [Feature Importance Analysis](#-feature-importance-analysis)
+  - [Most Important Features](#most-important-features)
+- [Performance Improvement Journey](#-performance-improvement-journey)
+- [Key Learnings](#-key-learnings)
+- [Project Structure](#-project-structure)
+- [Final Conclusion](#-final-conclusion)
 
 ---
 
